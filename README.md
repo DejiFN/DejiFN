@@ -16,11 +16,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 - ✨ <a href="https://docs.google.com/document/d/1-trxpY4tWxF0k7SIyxnRwUWQrZf-rt2I7GbnPWscZfQ/edit?usp=sharing" target="_blank">Poetry </a>
 
 
-</br>
-</br>
-</br>
-
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
