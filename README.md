@@ -1,11 +1,45 @@
-# 💫 About Me:
-I'm a 4th-year computer engineering student who enjoys the euphoria of creating web applications from scratch using MEAN stack technologies. 
+<h1 align="center">Hi there, I'm <a href="https://portfolio-sigma-ten-42.vercel.app/" target="_blank">Oladimeji </a> <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+<br />
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+### 💫 About Me:
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DejiFN&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+### I'm a 4th-year computer engineering student who enjoys the euphoria of creating web applications from scratch using MEAN stack technologies. 
+
+<img hight="400" width="400" alt="GIF" align="right" src="https://github.com/DejiFN/DejiFN/blob/main/violet.webp">
+
+####  - Learning :
+- ✨ Data Structures & Algorithms (Leetcode)
+- ✨ Advance react
+
+####  - Hobbies : 
+- ✨ Anime
+- ✨ <a href="https://docs.google.com/document/d/1-trxpY4tWxF0k7SIyxnRwUWQrZf-rt2I7GbnPWscZfQ/edit?usp=sharing" target="_blank">Poetry </a>
+
+
+</br>
+</br>
+</br>
+
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+
+
+<br />
+<br />
+
+
+
+### Currently Listening to:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gbgc7ntqdnbsrog4rldzpg4lo&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=001194&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=gbgc7ntqdnbsrog4rldzpg4lo&redirect=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DejiFN&icon=1&color=1)](https://visitcount.itsvg.in)
