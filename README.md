@@ -40,7 +40,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ### Currently Listening to:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gbgc7ntqdnbsrog4rldzpg4lo&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=001194&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=gbgc7ntqdnbsrog4rldzpg4lo&redirect=true)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gbgc7ntqdnbsrog4rldzpg4lo&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=001194&&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=gbgc7ntqdnbsrog4rldzpg4lo&redirect=true)
 
 
 ---
