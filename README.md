@@ -44,5 +44,5 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ---
 ### Connect with me:
 [![](https://visitcount.itsvg.in/api?id=DejiFN&icon=1&color=1)](https://visitcount.itsvg.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oladimejiaremu/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oladimejiaremu/) 
 
