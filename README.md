@@ -6,11 +6,10 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ### I'm a 4th-year computer engineering student who enjoys the euphoria of creating web applications from scratch using MEAN stack technologies. 
 
-<img hight="400" width="400" alt="GIF" align="right" src="https://github.com/DejiFN/DejiFN/blob/main/violet.webp">
 
 ####  - Learning :
 - ✨ Data Structures & Algorithms (Leetcode)
-- ✨ Advance react
+- ✨ Advanced react
 
 ####  - Hobbies : 
 - ✨ Anime
