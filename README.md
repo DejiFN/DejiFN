@@ -3,7 +3,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ### 💫 About Me:
 
-### I'm a 4th-year computer engineering student who enjoys the euphoria of creating web applications from scratch using MEAN stack technologies. 
+### I'm a computer engineering graduate who enjoys the euphoria of creating web applications from scratch using MEAN stack technologies. 
 
 
 ####  - Learning :
